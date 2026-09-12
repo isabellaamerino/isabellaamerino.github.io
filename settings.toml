@@ -134,18 +134,6 @@ photos = [
 # No url needed! List the photos and clicking the work opens a
 # slideshow. Write captions after the | symbol (optional).
 
-[[work]]
-title = "Saturday at the farmers market"
-description = "Scenes from a morning at the downtown farmers market, where vendors set up before sunrise and regulars arrive with the same canvas bags every week."
-date = "February 2026"
-category = "Photojournalism"
-photos = [
-  "media/farmers-market/01-market-opening.jpg | Produce stands catch the first light as the market opens at 8 a.m.",
-  "media/farmers-market/02-vendor.jpg | Vendors greet the day's first customers — many by name.",
-  "media/farmers-market/03-vegetables.jpg | Winter vegetables, picked the afternoon before, fill the tables by dawn.",
-  "media/farmers-market/04-flowers.jpg | Flower buckets wait for the mid-morning rush.",
-  "media/farmers-market/05-fruit.jpg | By noon, the best of the citrus is already gone.",
-]
 
 # ── An audio story stored on your site ──────────────────────
 #
