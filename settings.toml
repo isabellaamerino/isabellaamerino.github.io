@@ -140,25 +140,25 @@ photos = [
 # Point "audio" at an mp3 file in your media folder. The photo
 # is optional. Clicking the work opens an audio player.
 
-[[work]]
-title = "One small step: the sound that stopped the world"
-description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
-audio = "media/audio/one-small-step.mp3"
-image = "media/work/apollo.jpg"
-date = "December 2025"
-category = "Audio"
+# [[work]]
+# title = "One small step: the sound that stopped the world"
+# description = "An audio postcard revisiting the most famous sentence ever spoken off-planet, and what it sounded like in living rooms in 1969."
+# audio = "media/audio/one-small-step.mp3"
+# image = "media/work/apollo.jpg"
+# date = "December 2025"
+# category = "Audio"
 
 # ── A video hosted on YouTube or Vimeo ──────────────────────
 #
 # Upload your video to YouTube or Vimeo, then paste its link
 # here. Clicking the work plays it in a pop-up.
 
-[[work]]
-title = "Video explainer: why we're going back to the Moon"
-description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
-video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
-date = "September 2025"
-category = "Video"
+# [[work]]
+# title = "Video explainer: why we're going back to the Moon"
+# description = "A short explainer on NASA's Artemis program, produced for my multimedia reporting class."
+# video = "https://www.youtube.com/watch?v=vl6jn-DdafM"
+# date = "September 2025"
+# category = "Video"
 
 
 # ============================================================
