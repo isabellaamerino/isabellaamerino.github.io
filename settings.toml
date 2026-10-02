@@ -106,12 +106,12 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
-title = ""
-description = ""
-url = ""
+title = "‘What Happened to the Beach?’ ambitiously stuns in eccentric, psychedelic fun"
+description = "Arts & Enterntainment Music Review from The Daily Californian"
+url = "https://www.dailycal.org/arts/music/album-reviews/what-happened-to-the-beach-ambitiously-stuns-in-eccentric-psychedelic-fun/article_7451edf4-cb73-11ee-a9cc-33f0db380988.html"
 image = ""
-date = ""
-category = ""
+date = "February 2024"
+category = "Narrative"
 outlet = ""
 
 [[work]]
