@@ -18,7 +18,7 @@
 name = "Isabella Merino"                # ← Required. Everything else is optional.
 
 # A short phrase describing you. Shows up big at the top of most templates.
-tagline = "Multimedia journalist telling the East Bay's stories"
+tagline = "Multimedia journalist seeking new stories"
 
 location = "Berkeley, California"
 
@@ -44,7 +44,7 @@ employer = "Emeryville Today"      # Where you work, intern, or freelance most
 #   "signal"     – huge bold headline, then a bright yellow band
 #   "harbor"     – deep teal with a portrait sidebar and serif type
 
-template = "newsprint"
+template = "harbor"
 
 # ── How people reach you ────────────────────────────────────
 
