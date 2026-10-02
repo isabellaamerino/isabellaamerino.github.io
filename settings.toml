@@ -106,6 +106,33 @@ footer = ""
 # ── Published stories: give them a url and they link out ────
 
 [[work]]
+title = "Luis Valdez talks persistent Chicano influence, ‘La Bamba’ Criterion Collection release"
+description = "Arts & Enterntainment Music Review from The Daily Californian"
+url = "https://www.dailycal.org/archives/luis-valdez-talks-persistent-chicano-influence-la-bamba-criterion-collection-release/article_4a3aec04-e370-5e08-8a19-2bb97c79bd95.html"
+image = ""
+date = "September 2023"
+category = "Narrative"
+outlet = ""
+
+[[work]]
+title = "Niall Horan directs introspective, episodic tale of romance in ‘The Show’"
+description = "Arts & Enterntainment Music Review from The Daily Californian"
+url = "https://www.dailycal.org/archives/niall-horan-directs-introspective-episodic-tale-of-romance-in-the-show/article_aebc0f40-ea68-518d-9a37-a451f64232c1.html"
+image = ""
+date = "June 2023"
+category = "Narrative"
+outlet = ""
+
+[[work]]
+title = "Olivia Rodrigo is out for blood in fanged comeback single ‘Vampire’"
+description = "Arts & Enterntainment Music Review from The Daily Californian"
+url = "https://www.dailycal.org/archives/olivia-rodrigo-is-out-for-blood-in-fanged-comeback-single-vampire/article_b1601ee2-7cb2-505d-a6f9-77c0fd8c06e3.html"
+image = ""
+date = "July 2023"
+category = "Narrative"
+outlet = ""
+
+[[work]]
 title = "‘What Happened to the Beach?’ ambitiously stuns in eccentric, psychedelic fun"
 description = "Arts & Enterntainment Music Review from The Daily Californian"
 url = "https://www.dailycal.org/arts/music/album-reviews/what-happened-to-the-beach-ambitiously-stuns-in-eccentric-psychedelic-fun/article_7451edf4-cb73-11ee-a9cc-33f0db380988.html"
