@@ -142,6 +142,24 @@ category = "Narrative"
 outlet = ""
 
 [[work]]
+title = "Five vie for three seats on Emery Unified School District board"
+description = "Emery Unified District Board Candidates Story for Emeryville Today"
+url = "https://emeryvilletoday.com/2026/10/31/five-vie-for-three-seats-on-emery-unified-school-board/"
+image = "media/schoolboard.png"
+date = "October 2026"
+category = "Story"
+outlet = ""
+
+[[work]]
+title = "Emery High uses app to limit student cellphone use: ‘It has been the single most significant change in our school.’"
+description = "Emery Unified High School Story for Emeryville Today"
+url = "https://emeryvilletoday.com/2026/11/09/emery-high-uses-app-to-limit-student-cellphone-use-it-has-been-the-single-most-significant-change-in-our-school/"
+image = "media/cellphone.png"
+date = "November 2026"
+category = "Story"
+outlet = ""
+
+[[work]]
 title = "Photojournalism Assignment"
 description = "Photo assignment from UC Berkeley Journalism School."
 date = "September 2026"
